@@ -1848,8 +1848,8 @@ I briefly explained the situation but told them I will be using a credit union f
 
 [http://business.nasdaq.com/market\-tech/marketplaces/market\-surveillance](http://business.nasdaq.com/market-tech/marketplaces/market-surveillance)
 
-Could this be the reason Gemini had increased fees to 1&amp;#37; every trade earlier this month? ",
-304,We own \([http://shop.aqtivaqua.com](http://shop.aqtivaqua.com)\). We’ve recently discovered Bitcoin and just setup our website to accept Bitcoin orders. Enjoy swimming!,
+Could this be the reason Gemini had increased fees to 1&amp;#37; every trade earlier this month? ",3
+304,We own \([http://shop.aqtivaqua.com](http://shop.aqtivaqua.com)\). We’ve recently discovered Bitcoin and just setup our website to accept Bitcoin orders. Enjoy swimming!,4
 305,"Hi! I've spent some evenings creating a script that automatically installs and configures almost everything to run a lightning node(Bitcoin Core + Eclair). It's based on https://github.com/PSAppDeployToolkit/PSAppDeployToolkit, a toolkit many IT professionals use to automate software installations and configurations in Windows with Powershell. Here it is: """"https://github.com/khaffner/Crypto-Currency-Tools/tree/master/Lightning%20Node"""". The important code is in Deploy-Application.ps1, the rest is just the toolkit. Grab the """"Lightning Node"""" folder, and run Deploy-Application.exe as administrator. (I know that sounds extremely sketchy, so I fully understand if you do not want to. The .exe just makes sure the .ps1 is run with the right privileges and execution policy, the source code is in the PSAppDeployToolkit repo.)
 I wrote this after successfully manually setting up my own node.
 I've tested it successfully on a clean Windows 10 1709 x64 virtual machine. Windows 7 and 8.1 (x64) may also work fine if Powershell and dotNET framework is fully updated to the newest version. This assumes your computer does NOT already have Bitcoin Core or Eclair installed. 200GB is currently required. I am new to lightning and do not know if the resulting config is good and secure. Even running it on Windows might be a red flag for some. Please read through the Deploy-Application.ps1 before running the exe. Be careful. Enjoy :)",3
@@ -2498,7 +2498,7 @@ If so can you tell me if it’s worth the money or not please?",3
 450,My friend owes me 500$ and he said he would just semd me 500$ worth of bitcoin. How do i set up a wallet? Please help thanks,3
 451,"Having some difficulty topping up my xbox/microsoft account - it worked in the past just through scanning the QR code, but now it says its invalid? 
 
-Sorry if this is an old issue, but any help would be appreciated.",
+Sorry if this is an old issue, but any help would be appreciated.",3
 452,"Why is it that r/btc essentially a BCH subreddit, but still is named """"Bitcoin"""" and has, for the most part, the same description as r/bitcoin? If its going to be a Bitcoin Cash subreddit, why don't they make it with their own branding?",3
 453,"Say you was a vendor on a dark net marketplace and the marketplace gone down. You had several large multisignature payments in escrow waiting to release in 5 days.
 
@@ -6347,7 +6347,7 @@ Cryptocurrency is bigger than Bitcoin and it will move on without Bitcoin. Look 
 Hoping for the best, prepared for the worst
 
  ",1
-437,"I've been using Bitcoin since early '14, and while I'm crazy about the idea, the language still doesn't feel natural. I like the idea of the """"""""World Wide Ledger"""""""" because it immediately feels familiar. How else would you rebrand Bitcoin to make it feel appealing and comfortable from Day 1? ",
+437,"I've been using Bitcoin since early '14, and while I'm crazy about the idea, the language still doesn't feel natural. I like the idea of the """"""""World Wide Ledger"""""""" because it immediately feels familiar. How else would you rebrand Bitcoin to make it feel appealing and comfortable from Day 1? ",3
 438,"Hey all, I'm a graduating political science major and I've been following Bitcoin for almost a year now. My experience with Bitcoin has been from a policy perspective and I've also spent a lot of time studying altcoin development. I've also interned in a Congressional office and advised staff on Bitcoin developments. Now that I'm graduating, I am highly considering getting involved in the  industry, but feel like I'll be forever outclassed due to my lack of a technical background. 
 
 Do you think this is the case and if not, what opportunities are available for people with non-technical backgrounds (except for marketing)? ",3
